@@ -1,0 +1,10 @@
+{
+    "full_name": "Svalbard",
+    "email": "svalbard@example.com",
+    "project_name": "Python_Lib",
+    "repo_name": "python_lib",
+    "project_short_description": "A stub repository for your next python library",
+    "release_date": "2015-02-09",
+    "year": "2015",
+    "version": "0.1.1"
+}
